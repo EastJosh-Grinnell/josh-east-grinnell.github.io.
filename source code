@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josh East Grinnell - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: gold;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background-color: green;
+        }
+        nav a {
+            color: gold;
+            text-decoration: none;
+            margin: 10px;
+            font-size: 18px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: maroon;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Josh East Grinnell</h1>
+        <p>Welcome to my portfolio</p>
+    </header>
+    <nav>
+        <a href="#intro">Introduction</a>
+        <a href="#stem">STEM Projects</a>
+        <a href="#social">Social Science/Humanities Projects</a>
+        <a href="#art">Art Projects</a>
+        <a href="#resume">Resume</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="intro">
+        <h2>Introduction</h2>
+        <p>Brief introduction about yourself.</p>
+    </section>
+    <section id="stem">
+        <h2>STEM Projects</h2>
+        <p>Details about your STEM-related work.</p>
+    </section>
+    <section id="social">
+        <h2>Social Science/Humanities Projects</h2>
+        <p>Details about your social science and humanities work.</p>
+    </section>
+    <section id="art">
+        <h2>Art Projects</h2>
+        <p>Showcase of your artwork.</p>
+    </section>
+    <section id="resume">
+        <h2>Resume</h2>
+        <p>Upload your resume here.</p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Your thoughts and reflections.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Ways to reach you.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Josh East Grinnell</p>
+    </footer>
+</body>
+</html>
